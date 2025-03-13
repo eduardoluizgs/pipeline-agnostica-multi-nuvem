@@ -1,0 +1,4 @@
+azure-identity
+azure-storage-file-datalake
+boto3
+requests
